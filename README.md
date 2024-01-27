@@ -1,3 +1,3 @@
-No need for big description.
-Simple and modern landing page to quickly propel your SaaS.
+No need for big description.<br>
+Simple and modern landing page to quickly propel your SaaS.<br>
 HTML TainwindCSS template.
